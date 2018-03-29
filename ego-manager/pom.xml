@@ -18,7 +18,7 @@
         <module>ego-manager-dao</module>
         <module>ego-manager-interface</module>
         <module>ego-manager-service</module>
-        <module>ego-manager-web</module>
+        <!--<module>ego-manager-web</module>-->
     </modules>
     <dependencies>
         <dependency>
